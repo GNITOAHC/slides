@@ -34,6 +34,20 @@
       "desc": "Description",
       "tags": ["NCCU", "Database"],
       "path": "github/gnitoahc/DBMS-2023/blob/main/pdf/%E9%A1%8C%E7%9B%AE%E8%AA%AA%E6%98%8E.pdf"
+    },
+    {
+      "name": "Git Tutorial",
+      "date": "2023-10-04",
+      "desc": "Serving as an instructor at GDSC, NCCU. Teaching knowledge about Git.",
+      "tags": ["NCCU", "GDSC", "Git"],
+      "path": "${repo}Git-Tutorial.pdf"
+    },
+    {
+      "name": "Backend Tutorial",
+      "date": "2023-10-15",
+      "desc": "Serve as an instructor at GDSC, NCCU. Teaching knowledge about Backend Development.",
+      "tags": ["NCCU", "GDSC", "Backend"],
+      "path": "${repo}Backend-Tutorial.pdf"
     }
   ]
 }
