@@ -30,10 +30,10 @@
     },
     {
       "name": "DBMS-2023",
-      "date": "2023-01-01",
-      "desc": "Description",
+      "date": "2023-01-22",
+      "desc": "Final report of our project in Database Management System course.",
       "tags": ["NCCU", "Database"],
-      "path": "github/gnitoahc/DBMS-2023/blob/main/pdf/%E9%A1%8C%E7%9B%AE%E8%AA%AA%E6%98%8E.pdf"
+      "path": "github/gnitoahc/DBMS-2023/blob/main/pdf/%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.pdf"
     },
     {
       "name": "Git Tutorial",
