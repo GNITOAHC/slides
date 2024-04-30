@@ -1,0 +1,25 @@
+{
+  "files": [
+    {
+      "name": "TF-IDF",
+      "date": "2024-04-02",
+      "desc": "Intro to TF-IDF - course 1122 GenAI",
+      "tags": ["GenAI", "NLP"],
+      "path": "${repo}TF-IDF.pdf"
+    },
+    {
+      "name": "1122CPPy-Lab02",
+      "date": "2024-03-05",
+      "desc": "Lab02 of course Computer Programming, NCCU",
+      "tags": ["NCCU", "Programming", "CPPY"],
+      "path": "${repo}1122CPPy-Lab02.pdf"
+    },
+    {
+      "name": "DBMS-2023",
+      "date": "2023-01-01",
+      "desc": "Description",
+      "tags": ["NCCU", "Database"],
+      "path": "github/gnitoahc/DBMS-2023/blob/main/pdf/%E9%A1%8C%E7%9B%AE%E8%AA%AA%E6%98%8E.pdf"
+    }
+  ]
+}
