@@ -15,6 +15,20 @@
       "path": "${repo}1122CPPy-Lab02.pdf"
     },
     {
+      "name": "1122CPPy-Lab05",
+      "date": "2024-03-26",
+      "desc": "Lab05 of course Computer Programming, NCCU",
+      "tags": ["NCCU", "Programming", "CPPY"],
+      "path": "${repo}1122CPPy-Lab05.pdf"
+    },
+    {
+      "name": "1122CPPy-MidtermReview",
+      "date": "2024-04-09",
+      "desc": "Midterm Review of course Computer Programming, NCCU",
+      "tags": ["NCCU", "Programming", "CPPY"],
+      "path": "${repo}1122CPPy-MidtermReview.pdf"
+    },
+    {
       "name": "DBMS-2023",
       "date": "2023-01-01",
       "desc": "Description",
