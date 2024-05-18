@@ -57,6 +57,13 @@
       "path": "${repo}1121CP1-Lab03.pdf"
     },
     {
+      "name": "1121CP1-Lab03",
+      "date": "2023-11-21",
+      "desc": "Lab07 of course Computer Programming, NCCU",
+      "tags": ["NCCU", "Programming", "C/C++"],
+      "path": "${repo}1121CP1-Lab07.pdf"
+    },
+    {
       "name": "1121CP1-Lab10",
       "date": "2023-12-12",
       "desc": "Lab03 of course Computer Programming, NCCU",
