@@ -75,21 +75,24 @@
       "date": "2024-05-01",
       "desc": "A paper about quantum annealing, NCCU",
       "tags": ["NCCU", "Quantum Annealing"],
-      "path": "${repo}multifunctional-qa-toolkit.pdf"
+      "path": "${repo}multifunctional-qa-toolkit.pdf",
+      "short": "multifunc-qa"
     },
     {
       "name": "Infographics Generation, IJCAI 2024",
       "date": "2024-08-03",
       "desc": "A paper about infographics generation, Academia Sinica 2024",
       "tags": ["Academia Sinica", "Infographics", "IJCAI"],
-      "path": "${repo}ijcai-2024-infographics.pdf"
+      "path": "${repo}ijcai-2024-infographics.pdf",
+      "short": "infographics"
     },
     {
       "name": "lawshield.ai",
       "date": "2024-09-01",
       "desc": "lawshield.ai intro",
       "tags": ["lawshield.ai", "NLP", "RAG", "fine-tune"],
-      "path": "${repo}lawshieldai.pdf"
+      "path": "${repo}lawshieldai.pdf",
+      "short": "lawshieldai"
     }
   ]
 }

@@ -52,6 +52,19 @@ function setDoc(files) {
     .join('')
 }
 
+async function handleRedirect(files) {
+  const search = new URLSearchParams(window.location.search);
+  const des = search.get('goto');
+
+  for (const file of files) {
+    if (des === file.short) {
+      window.location.href = pdfPrefix + file.path;
+    }
+  }
+
+  return
+}
+
 async function main() {
   // Retrieve files from JSON
   let files = await fetchFiles()
@@ -63,5 +76,8 @@ async function main() {
 
   // Set the document
   setDoc(files)
+
+  // Handle redirect
+  handleRedirect(files)
 }
 main()
