@@ -93,6 +93,20 @@
       "tags": ["lawshield.ai", "NLP", "RAG", "fine-tune"],
       "path": "${repo}lawshieldai.pdf",
       "short": "lawshieldai"
+    },
+    {
+      "name": "2024 Distributed Systems Final Presentation",
+      "date": "2024-06-18",
+      "desc": "Final Presentation of Distributed Systems, NCCU",
+      "tags": ["NCCU", "Distributed Systems"],
+      "path": "github/GNITOAHC/2024-DistributedSystem/blob/main/pdf/final_slides.pdf"
+    },
+    {
+      "name": "2024 Distributed Systems Midterm Presentation",
+      "date": "2024-05-05",
+      "desc": "Midterm Presentation of Distributed Systems, NCCU",
+      "tags": ["NCCU", "Distributed Systems"],
+      "path": "github/GNITOAHC/2024-DistributedSystem/blob/main/pdf/mid_slides.pdf"
     }
   ]
 }
