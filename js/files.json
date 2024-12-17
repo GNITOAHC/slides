@@ -107,6 +107,14 @@
       "desc": "Midterm Presentation of Distributed Systems, NCCU",
       "tags": ["NCCU", "Distributed Systems"],
       "path": "github/GNITOAHC/2024-DistributedSystem/blob/main/pdf/mid_slides.pdf"
+    },
+    {
+      "name": "2025 NTU CSIE M.S. Program Application",
+      "date": "2024-10-10",
+      "desc": "Application for NTU CSIE M.S. Program",
+      "tags": ["NTU", "CSIE", "M.S."],
+      "path": "${repo}ntu-cs-apply.pdf",
+      "short": "ntucs-apply"
     }
   ]
 }
