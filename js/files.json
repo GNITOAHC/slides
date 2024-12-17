@@ -115,6 +115,14 @@
       "tags": ["NTU", "CSIE", "M.S."],
       "path": "${repo}ntu-cs-apply.pdf",
       "short": "ntucs-apply"
+    },
+    {
+      "name": "Resume (Last updated: 2024-12-18)",
+      "date": "2024-12-18",
+      "desc": "My Resume",
+      "tags": ["resume"],
+      "path": "${repo}resume-2024-12-18.pdf",
+      "short": "resume"
     }
   ]
 }
