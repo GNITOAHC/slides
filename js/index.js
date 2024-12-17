@@ -1,5 +1,5 @@
 // Repo URL
-const repo = 'github/gnitoahc/slides/blob/main/'
+const repo = 'github/GNITOAHC/slides/blob/main/'
 // Data URL
 const rawFile =
   'https://raw.githubusercontent.com/GNITOAHC/slides/main/js/files.json'
