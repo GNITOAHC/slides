@@ -30,12 +30,12 @@ function listComponent(file) {
       return `<span class="text-white bg-[#5c6bc0] rounded-md px-[3px] mx-[2px]">${tag}</span>`
     })
     .join('')
+  let pdflink = file.path.startsWith('http') ? file.path : pdfPrefix + file.path
   return `
     <div class="relative p-5 rounded w-full hover:bg-white/10">
-      <div class="flex w-full relative">
-        <a class="text-white" href="#${file.name}">${file.name}</a>
-        &nbsp;<a href="${pdfPrefix}${file.path}" class="h-3 w-3"><link-icon class="h-3 w-3"></link-icon></a>
-        <p class="text-white absolute right-2">${getDate(file.date)}</p>
+      <div class="flex flex-wrap-reverse w-full relative justify-between">
+        <a class="text-white underline" href="${pdflink}">${file.name}</a>
+        <p class="text-white">${getDate(file.date)}</p>
       </div>
       <p class="opacity-75">${file.desc}</p>
       <div>${tagComp}</div>
@@ -53,12 +53,12 @@ function setDoc(files) {
 }
 
 async function handleRedirect(files) {
-  const search = new URLSearchParams(window.location.search);
-  const des = search.get('goto');
+  const search = new URLSearchParams(window.location.search)
+  const des = search.get('goto')
 
   for (const file of files) {
     if (des === file.short) {
-      window.location.href = pdfPrefix + file.path;
+      window.location.href = pdfPrefix + file.path
     }
   }
 
