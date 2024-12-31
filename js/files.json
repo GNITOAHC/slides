@@ -123,6 +123,20 @@
       "tags": ["resume"],
       "path": "${repo}resume-2024-12-18.pdf",
       "short": "resume"
+    },
+    {
+      "name": "2024 Web search and mining final project presentation",
+      "date": "2024-12-25",
+      "desc": "Final project presentation of Web search and mining, NCCU",
+      "tags": ["NCCU", "Web search and mining", "RAG", "presentation"],
+      "path": "https://gitlab.aicrowd.com/chaoting_chen/meta-comphrehensive-rag-benchmark-starter-kit/-/raw/master/wsm-final-slides.pdf"
+    },
+    {
+      "name": "2024 Web search and mining final project report",
+      "date": "2024-12-31",
+      "desc": "Final project report of Web search and mining, NCCU",
+      "tags": ["NCCU", "Web search and mining", "RAG", "report"],
+      "path": "https://gitlab.aicrowd.com/chaoting_chen/meta-comphrehensive-rag-benchmark-starter-kit/-/raw/master/wsm-final-report.pdf"
     }
   ]
 }
