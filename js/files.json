@@ -117,11 +117,11 @@
       "short": "ntucs-apply"
     },
     {
-      "name": "Resume (Last updated: 2024-12-18)",
-      "date": "2024-12-18",
+      "name": "Resume (Last updated: 2025-04-01)",
+      "date": "2025-04-01",
       "desc": "My Resume",
       "tags": ["resume"],
-      "path": "${repo}resume-2024-12-18.pdf",
+      "path": "${repo}resume-2025-04-01.pdf",
       "short": "resume"
     },
     {
