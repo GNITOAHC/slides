@@ -137,6 +137,13 @@
       "desc": "Final project report of Web search and mining, NCCU",
       "tags": ["NCCU", "Web search and mining", "RAG", "report"],
       "path": "https://gitlab.aicrowd.com/chaoting_chen/meta-comphrehensive-rag-benchmark-starter-kit/-/raw/master/wsm-final-report.pdf"
+    },
+    {
+      "name": "[2025 Web Conference] Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks",
+      "date": "2025-04-28",
+      "desc": "The ACM Web Conference 2025 paper",
+      "tags": ["web conf", "CAG", "RAG", "NLP"],
+      "path": "${repo}www-2025-dont-do-rag.pdf"
     }
   ]
 }
