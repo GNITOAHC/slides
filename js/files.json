@@ -79,9 +79,9 @@
       "short": "multifunc-qa"
     },
     {
-      "name": "Infographics Generation, IJCAI 2024",
+      "name": "[2024 IJCAI] Infographics Generation",
       "date": "2024-08-03",
-      "desc": "A paper about infographics generation, Academia Sinica 2024",
+      "desc": "International Joint Conference on Artificial Intelligence 2024 paper",
       "tags": ["Academia Sinica", "Infographics", "IJCAI"],
       "path": "${repo}ijcai-2024-infographics.pdf",
       "short": "infographics"
