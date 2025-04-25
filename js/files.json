@@ -144,6 +144,13 @@
       "desc": "The ACM Web Conference 2025 paper",
       "tags": ["web conf", "CAG", "RAG", "NLP"],
       "path": "${repo}www-2025-dont-do-rag.pdf"
+    },
+    {
+      "name": "[2025 Web Conference] Cache-Augmented Generation Poster",
+      "date": "2025-04-28",
+      "desc": "The ACM Web Conference 2025 poster",
+      "tags": ["web conf", "CAG", "RAG", "NLP"],
+      "path": "${repo}_WWW25__CAG_Poster.pdf"
     }
   ]
 }
